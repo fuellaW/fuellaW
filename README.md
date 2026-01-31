@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fuellaW
+- 👋 Hi, I’m @fleurinekeza
 - 👀 I’m interested in data science and statistics modelization
 - 🌱 I’m currently learning getlab and python
 - 💞️ I’m looking to collaborate on a community to grow in
